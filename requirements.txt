@@ -1,2 +1,4 @@
 alembic
 pytest-alembic
+sqlalchemy
+pytest-mock-resources[postgres-binary]
